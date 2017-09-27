@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GroupProject:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/GroupProject_jar</output-path>
+    <root id="archive" name="GroupProject.jar">
+      <element id="module-output" name="GroupProject" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
